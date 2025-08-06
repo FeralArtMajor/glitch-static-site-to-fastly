@@ -1,0 +1,62 @@
+{
+  "metaTitle": "Links!",
+  "metaDescription": "My meta description.",
+  "name": "Eros Asteria",
+  "theme": "custom-theme",
+  "avatarImage": "https://cdn.glitch.global/9e5d9ce1-1f40-47f0-a89e-c393fab34003/Drag%20Reunion%202024-0316.jpg?v=1743633222624",
+  "links": [
+      {
+      "url": "https://www.eventbrite.ca/e/drag-bingo-at-aok-tickets-1064953256859",
+      "text": "June 3rd - Happy Pride Month! I'll be co-hosting Drag Bingo w/ Manny Manila",
+      "img": ""
+    },
+    {
+      "url": "mailto:eros.asteria@gmail.com",
+      "text": "Send Me A Note // Book Me",
+      "img": ""
+    },
+    {
+      "url": "https://ko-fi.com/erosasteria",
+      "text": "Buy Me A Coffee ‧☕ ׂ 𓈒 ⋆ ۪ ",
+      "img": ""
+    },
+    {
+      "url": "https://www.communityedition.ca/tces-one-hell-of-a-drag-show/",
+      "text": "The Community Edition: ONE HELL OF A DRAG SHOW",
+      "img": ""
+    }
+  ],
+  "social": {
+    "glitch": "",
+    "arena": "",
+    "bandcamp": "",
+    "cohost": "",
+    "dev": "",
+    "facebook": "",
+    "github": "",
+    "gitlab": "",
+    "hashnode": "",
+    "instagram": "https://www.instagram.com/eros.asteria",
+    "keybase": "",
+    "kofi": "",
+    "letterboxd": "",
+    "linkedin": "",
+    "mastodon": "",
+    "medium": "",
+    "onlyfans": "",
+    "patreon": "",
+    "pinboard": "",
+    "pinterest": "",
+    "podcast": "",
+    "soundcloud": "",
+    "spotify": "",
+    "stackoverflow": "",
+    "substack": "",
+    "twitter": "",
+    "twitch": "",
+    "tiktok": "",
+    "tumblr": "",
+    "youtube": "",
+    "email": ""
+  }
+}
